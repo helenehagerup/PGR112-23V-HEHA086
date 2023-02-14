@@ -5,7 +5,7 @@ Jeg klarer å ...
 - [ ] opprette en tom klasse
 - [ ] opprette en (statisk) main-metode
 - [ ] printe ut tekst til terminalen
-- [ ] printe ut svaret på et regnestykke til terminalen
+- [x] printe ut svaret på et regnestykke til terminalen
 - [x] opprette en variabel av datatypen String
 - [x] printe ut tekstverdien lagret i en variabel til terminalen
 - [ ] opprette en variabel med den datatypen jeg vil
