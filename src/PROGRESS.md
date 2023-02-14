@@ -7,7 +7,7 @@ Jeg klarer å ...
 - [ ] printe ut tekst til terminalen
 - [ ] printe ut svaret på et regnestykke til terminalen
 - [x] opprette en variabel av datatypen String
-- [ ] printe ut tekstverdien lagret i en variabel til terminalen
+- [x] printe ut tekstverdien lagret i en variabel til terminalen
 - [ ] opprette en variabel med den datatypen jeg vil
 - [x] forklare forskjellen på primitive og ikke-primitive datatyper
 - [ ] forklare hva felter er og hva de brukes til
