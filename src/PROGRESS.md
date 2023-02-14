@@ -6,13 +6,13 @@ Jeg klarer å ...
 - [ ] opprette en (statisk) main-metode
 - [ ] printe ut tekst til terminalen
 - [ ] printe ut svaret på et regnestykke til terminalen
-- [ x] opprette en variabel av datatypen String
+- [x] opprette en variabel av datatypen String
 - [ ] printe ut tekstverdien lagret i en variabel til terminalen
 - [ ] opprette en variabel med den datatypen jeg vil
-- [ ] forklare forskjellen på primitive og ikke-primitive datatyper
+- [x] forklare forskjellen på primitive og ikke-primitive datatyper
 - [ ] forklare hva felter er og hva de brukes til
 - [ ] forklare hva metoder er og hva de brukes til
-- [ ] lage en loop som teller fra 0 til 10 og printer ut tallene til terminalen
+- [x] lage en loop som teller fra 0 til 10 og printer ut tallene til terminalen
 - [ ] bruke en while-loop
 - [ ] forskjellen på bruken continue og break inne i en loop
 - [ ] skrive en enkel if-setning
